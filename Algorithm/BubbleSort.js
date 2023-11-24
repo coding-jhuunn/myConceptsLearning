@@ -1,5 +1,5 @@
 
-const arrayList = [6,3,0,5];
+const arrayList = [2,1,0,2,1,0,0,1,2];
 
 const rangeList =  arrayList.length;
 
